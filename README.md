@@ -44,7 +44,7 @@ Most AI tools are passive. Crow is **active**. It doesn't just give you informat
 
 ---
 
-### Suggested Section: "The User Journey"
+### The User Journey
 
 The Input: Feed Crow a documentation , a PDF, or a raw topic.
 
