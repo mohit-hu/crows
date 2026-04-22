@@ -52,10 +52,6 @@ The Architect: It generates a specialized course tailored to your current knowle
 
 The Accuracy Path: It creates a roadmap specifically designed to maintain high retention and accuracy, not just "speed reading."
 
-### A tip for your README:
-Since you mentioned **"getting perfect notice every day,"** I used that phrase in the memory section. It sounds like a unique feature—the idea that the AI is "noticing" your patterns better than a human coach would.
-
-Does this capture the "Self-Correction" and "Course Generation" parts of your idea?
 
 ## 🛠️ Installation & Setup (Local Dev)
 1. Clone the repository:
