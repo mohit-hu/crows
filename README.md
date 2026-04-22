@@ -8,7 +8,7 @@
 # crows - Your Personal lacal assitent for grouth
 This is a much clearer vision. You aren't just building a "todo list"; you're building a **Self-Correcting Life Architect.**
 
-Unlike generic AI that just answers questions, **Crow** (or **New Reality**) acts as a strict but supportive coach that holds the user accountable through a closed feedback loop.
+Unlike generic AI that just answers questions, **Crows** acts as a strict but supportive coach that holds the user accountable through a closed feedback loop.
 
 Here is a high-impact GitHub README overview that highlights these specific "Action-to-Feedback" capabilities:
 
