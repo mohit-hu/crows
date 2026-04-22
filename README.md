@@ -60,7 +60,7 @@ Does this capture the "Self-Correction" and "Course Generation" parts of your id
 ## 🛠️ Installation & Setup (Local Dev)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/thisRepo.git
+   git clone https://github.com/your-username/crows.git
    ```
 2. Install dependencies:
    ```bash
