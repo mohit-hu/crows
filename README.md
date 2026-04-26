@@ -53,7 +53,7 @@ The Architect: It generates a specialized course tailored to your current knowle
 The Accuracy Path: It creates a roadmap specifically designed to maintain high retention and accuracy, not just "speed reading."
 
 
-## 🛠️ Installation & Setup (Local Dev)
+## Installation & Setup (Local Dev)
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/crows.git
