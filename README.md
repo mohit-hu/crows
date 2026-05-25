@@ -61,7 +61,7 @@ The Accuracy Path: It creates a roadmap specifically designed to maintain high r
 2. Install dependencies:
    ```bash
    npm install
-   ```
+   ```      
 3. Run the development server:
    ```bash
    npm run dev
